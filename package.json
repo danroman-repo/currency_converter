@@ -2,7 +2,7 @@
   "name": "currency_converter",
   "version": "1.0.0",
   "type": "module",
-  "repository": "https://github.com/danroman-github/currency_converter",
+  "repository": "https://github.com/danroman-repo/currency_converter",
   "author": "danroman",
   "license": "MIT",
   "scripts": {
